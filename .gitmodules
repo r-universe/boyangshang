@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "FSSF"]
 	path = FSSF
-	url = https://github.com/cran/FSSF
+	url = https://github.com/boyangshang/fssf
